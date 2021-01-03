@@ -4,6 +4,8 @@
 
 Naučme se programovat. Video návody, které tě provedou úplnými základy programování tak, jak bychom je postupně probírali na kroužku, když by nám doba covidová umožnila se pravidelně scházet.
 
+* [Youtube Channel s video návody](https://www.youtube.com/channel/UCuylunacDDggGVezoquFtVg)
+
 Začni tvorbou jednoduchých her v prostředí [Scratch](./scratch.md) a přihlas se k našemu [newsleteru](https://tinyletter.com/krouzek-programovani), aby ti neunikly další díly.
 
 ---

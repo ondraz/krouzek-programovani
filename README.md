@@ -1,4 +1,4 @@
-# Scratch pro děti
+# {{ config.site_name }}
 
 <img src="theme/logo_b.svg" align="right" width="200" />
 

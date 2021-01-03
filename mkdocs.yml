@@ -8,35 +8,45 @@ site_author: Ondra Zahradník
 use_directory_urls: false
 
 nav:
-  - Úvod: 'index.md'
+  # - Úvod: 'index.md'
   - Scratch:
-    - Balónky: '01-Ballons/ballons.md'
-    - Pong: '02-Pong/pong.md'
-    - Goblini: '03-Goblins/goblins.md'
+    - Úvod: 'scratch.md'
+    - Balónky: '01-ballons/ballons.md'
+    - Pong: '02-pong/pong.md'
+    - Goblini: '03-goblins/goblins.md'
+    - Raketa: '04-rocket/rocket.md'
   - Zdroje: 'resources.md'
 
 plugins:
   - search
+  - macros
+
 
 copyright: Copyright &copy; 2020 Maintained by <a href="https://github.com/ondraz">Ondra Zahradník</a>.
 
 theme:
   name: material
   custom_dir: theme/
-  favicon: logo_b.svg
+  favicon: logo_b.png
   logo: logo_w.svg
   features:
     - tabs
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
   palette:
     scheme: preference
     primary: brown
     accent: deep orange
+  language: cs
 
 
 extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 
 markdown_extensions:
+  - meta
   - attr_list
   - admonition
   - pymdownx.arithmatex
@@ -53,3 +63,14 @@ markdown_extensions:
       repo_url_shorthand: true
       user: squidfunk
       repo: mkdocs-material
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ondraz
+      name: Twitter
+    - icon: fontawesome/regular/envelope
+      link: https://tinyletter.com/krouzek-programovani
+      name: Přihlaš se k odběru novinek
+  disqus: krouzek-programovani

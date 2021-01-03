@@ -1,6 +1,6 @@
 # Goblins
 
-[Posledně](../02-Pong/pong.md) jsme si ukázali, jak ovládat pálku pomocí klávesnice. Tentokrát navážeme a zahrajeme si dva gobliny, kteří po sobě stříli a vyhýbají se střelám. Opět si zahrajeme hru proti sobě na jednom počítači.
+[Posledně](../02-pong/pong.md) jsme si ukázali, jak ovládat pálku pomocí klávesnice. Tentokrát navážeme a zahrajeme si dva gobliny, kteří po sobě stříli a vyhýbají se střelám. Opět si zahrajeme hru proti sobě na jednom počítači.
 
 Na skoro hotové gobliny se můžete podívat na [https://scratch.mit.edu/projects/445900661](https://scratch.mit.edu/projects/445900661).
 

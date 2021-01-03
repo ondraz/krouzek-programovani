@@ -18,7 +18,7 @@ Začneme tím, co už umíme z minula. Zvolte si dobré pozadí a přidejte gobl
 
 Naučíme goblina se pohybovat na stisk klávesy `q` nahoru a na stisknutí klávesy `a` dolů. Budeš k tomu potřebovat následující bloky.
 
-![](../02-Pong/2.png)
+![](../02-pong/2.png)
 
 Teď zkopíruj hotového goblina, umísti vpravo, pojmenuj ho `Goblin vpravo`, otoč směrem ke goblinovi vlevo a nastav tak, aby se pohyboval nahoru a dolů podle stisknutých šipek.
 

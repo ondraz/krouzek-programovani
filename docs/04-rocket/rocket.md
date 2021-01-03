@@ -1,8 +1,7 @@
 # Raketa
 
-Video návody k naprogramování sřílečky ve Scratchi.
-
-[Youtube Playlist](https://www.youtube.com/watch?v=Sul-JlNQSKI&list=PLQA1ytZXd9z04BphX5XWUkAGo2hPvK1VS)
+* [Scratch projekt](https://scratch.mit.edu/projects/467896858)
+* [Video návody k naprogramování sřílečky ve Scratchi](https://www.youtube.com/watch?v=Sul-JlNQSKI&list=PLQA1ytZXd9z04BphX5XWUkAGo2hPvK1VS)
 
 ## Úvod
 

@@ -1,8 +1,8 @@
 site_name: Kroužek programování
 repo_name: ondraz/krouzek-programovani
 repo_url: https://github.com/ondraz/krouzek-programovani
-edit_uri: edit/master/docs/
-site_url: hhttps://github.com/ondraz/krouzek-programovani
+edit_uri: edit/main/docs/
+site_url: https://github.com/ondraz/krouzek-programovani
 site_description: Kroužek programování.
 site_author: Ondra Zahradník
 use_directory_urls: false

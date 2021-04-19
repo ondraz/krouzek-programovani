@@ -11,10 +11,10 @@ nav:
   # - Úvod: 'index.md'
   - Scratch:
     - Úvod: 'scratch.md'
-    - Balónky: '01-ballons/ballons.md'
-    - Pong: '02-pong/pong.md'
-    - Goblini: '03-goblins/goblins.md'
-    - Raketa: '04-rocket/rocket.md'
+    - Balónky: 'scratch_01_ballons/ballons.md'
+    - Pong: 'scratch_02_pong/pong.md'
+    - Goblini: 'scratch_03_goblins/goblins.md'
+    - Raketa: 'scratch_04_rocket/rocket.md'
   - Zdroje: 'resources.md'
 
 plugins:

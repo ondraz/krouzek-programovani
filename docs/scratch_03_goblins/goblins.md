@@ -1,6 +1,6 @@
 # Goblins
 
-[Posledně](../02-pong/pong.md) jsme si ukázali, jak ovládat pálku pomocí klávesnice. Tentokrát navážeme a zahrajeme si dva gobliny, kteří po sobě stříli a vyhýbají se střelám. Opět si zahrajeme hru proti sobě na jednom počítači.
+[Posledně](../scratch_02_pong/pong.md) jsme si ukázali, jak ovládat pálku pomocí klávesnice. Tentokrát navážeme a zahrajeme si dva gobliny, kteří po sobě stříli a vyhýbají se střelám. Opět si zahrajeme hru proti sobě na jednom počítači.
 
 Na skoro hotové gobliny se můžete podívat na [https://scratch.mit.edu/projects/445900661](https://scratch.mit.edu/projects/445900661).
 
@@ -18,7 +18,7 @@ Začneme tím, co už umíme z minula. Zvolte si dobré pozadí a přidejte gobl
 
 Naučíme goblina se pohybovat na stisk klávesy `q` nahoru a na stisknutí klávesy `a` dolů. Budeš k tomu potřebovat následující bloky.
 
-![](../02-pong/2.png)
+![](../scratch_02_pong/2.png)
 
 Teď zkopíruj hotového goblina, umísti vpravo, pojmenuj ho `Goblin vpravo`, otoč směrem ke goblinovi vlevo a nastav tak, aby se pohyboval nahoru a dolů podle stisknutých šipek.
 

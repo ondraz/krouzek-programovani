@@ -15,6 +15,7 @@ nav:
     - Pong: 'scratch_02_pong/pong.md'
     - Goblini: 'scratch_03_goblins/goblins.md'
     - Raketa: 'scratch_04_rocket/rocket.md'
+    - Sluneční soustava: scratch_05_solar_system/solar_system.md
   - Zdroje: 'resources.md'
 
 plugins:
@@ -72,4 +73,3 @@ extra:
     - icon: fontawesome/regular/envelope
       link: https://tinyletter.com/krouzek-programovani
       name: Přihlaš se k odběru novinek
-  disqus: krouzek-programovani

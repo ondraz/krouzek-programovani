@@ -52,5 +52,5 @@ $$ y = r \times \sin(M) $$
 
 # Odkazy
 
-* [Pohyb po kružnici]()
+* [Pohyb po kružnici](https://mathsisfun.com/sine-cosine-tangent.html)
 * [Simulace Slunce a Země](https://evgenii.com/blog/earth-orbit-simulation/)
